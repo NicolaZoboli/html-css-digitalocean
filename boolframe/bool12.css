@@ -23,7 +23,7 @@
 }
 
 /* vesione smartphone */
-@media all and (max-width:768px) {
+@media all and (max-width: 768px) {
 
   .clear-xs {
     display: block;
@@ -110,7 +110,7 @@
 
 
 /* vesione tablet */
-@media all and (min-width:769px) and (max-width:992px) {
+@media all and (min-width: 769px) and (max-width: 1199px) {
 
   .clear-md {
     display: block;
@@ -196,7 +196,7 @@
 }
 
 /* vesione desktop */
-@media all and (min-width:993px) {
+@media all and (min-width: 1200px) {
 
   .clear-lg {
     display: block;

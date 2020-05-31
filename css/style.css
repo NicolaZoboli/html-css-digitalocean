@@ -87,6 +87,10 @@ header .sign-up-button:hover {
 
 /* main */
 
+main h2, main h4 {
+  color: #031c4e;
+}
+
 /* sezione jumbo */
 
 #jumbo {
@@ -286,6 +290,70 @@ header .sign-up-button:hover {
 #designed .fa-circle:hover {
   background-color: #006aff;
   border-radius: 100%;
+}
+
+/* sezione features */
+
+#features .container {
+  padding-top: 30px;
+}
+
+#features .container > * {
+  margin-bottom: 30px;
+}
+
+#features .container h2 {
+  text-align: center;
+}
+
+#features .features-sections {
+  padding: 0 60px;
+}
+
+#features .features-sections > * {
+  margin-bottom: 10px;
+}
+
+#features img {
+  width: 40px;
+}
+
+#features span a {
+  color: #026cff;
+}
+
+/* sezione service */
+
+#service {
+  background-color: #0040bd;
+  color: white;
+}
+
+#service .container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#service h2 {
+  text-align: center;
+  color: white;
+}
+
+#service .service-row {
+  border-bottom: 1px solid white;
+  padding: 0 20px;
+}
+
+#service .test-speed {
+  text-align: right;
+}
+
+#service .test-speed span a {
+  color: #00c9d0;
+}
+
+#service .service-column {
+  padding: 0 20px;
 }
 
 /* Media query */
