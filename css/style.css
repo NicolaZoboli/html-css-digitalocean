@@ -441,6 +441,48 @@ main h2, main h4 {
   border-radius: 5px;
 }
 
+/* footer */
+
+footer {
+  background-color: #031c4e;
+  padding-top: 30px;
+  text-align: left;
+  color: white;
+}
+
+footer li a {
+  color: #99a1b3;
+}
+
+footer li a strong {
+  color: white;
+  font-size: 20px;
+}
+
+footer ul.links-footer {
+  margin-bottom: 30px;
+}
+
+footer ul > li {
+  margin-bottom: 10px;
+}
+
+footer .fab {
+  font-size: 30px;
+  margin: 10px 10px 10px 0;
+  color: #7a859d;
+}
+
+footer .copy {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: #99a1b3;
+}
+
+footer .proudly {
+  color: #7a859d;
+}
+
 /* Media query */
 
 /* vesione smartphone */
